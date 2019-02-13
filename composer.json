@@ -1,0 +1,19 @@
+{
+    "name": "poing/dev",
+    "description": "Metapackage for local development environment.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian LaVallee",
+            "email": "brian.lavallee@invite-comm.jp"
+        }
+    ],
+    "require": {},
+    "repositories": {
+        "local": {
+            "type": "path",
+            "url": "~/composer/**/**"
+        }
+    }
+}
