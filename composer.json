@@ -3,6 +3,7 @@
     "description": "Metapackage for local development environment.",
     "type": "metapackage",
     "license": "MIT",
+    "version": "0.0.2",
     "authors": [
         {
             "name": "Brian LaVallee",
